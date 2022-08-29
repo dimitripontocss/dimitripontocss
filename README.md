@@ -1,13 +1,13 @@
 <h1 align="center">Hey visitor, I'm Dimitri wave</h1>
 <h3 align="left">A passionate fullstack developer with a lot of hunger for new things.</h3>
 
-<h3 align="left">🔭 I’m 21 years old and I live in Brazil</h3>
-<h3 align="left">🤝 I’m currently studing Eletrical Engineering with focus on Robotics and Industrial Automation at UFJF and FullStack Development at Driven.</h3>
-<h3 align="left">🌱 I’m currently learning how to be better on everything I can</h3>
+<h5 align="left">🔭 I’m 21 years old and I live in Brazil</h5>
+<h5 align="left">🤝 I’m currently studing Eletrical Engineering with focus on Robotics and Industrial Automation at UFJF and FullStack Development at Driven.</h5>
+<h5 align="left">🌱 I’m currently learning how to be better on everything I can</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dimitri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dimitri-daher-assis-5b7b46240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
