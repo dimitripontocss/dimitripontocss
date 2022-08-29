@@ -1,9 +1,9 @@
 <h1 align="center">Hey visitor, I'm Dimitri wave</h1>
 <h3 align="center">A passionate fullstack developer with a lot of hunger for new things.</h3>
 
-<h4 align="left">🔭 I’m 21 years old and I live in Brazil</h4>
+<h4 align="left">🔭 I’m 21 years old and I live in Brazil.</h4>
 <h4 align="left">🤝 I’m currently studing Eletrical Engineering with focus on Robotics and Industrial Automation at UFJF and FullStack Development at Driven.</h4>
-<h4 align="left">🌱 I’m currently learning how to be better on everything I can</h4>
+<h4 align="left">🌱 I’m currently learning how to be better on everything I can.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
