@@ -1,4 +1,4 @@
-<h1 align="center">Hey visitor, I'm Dimitri sunglasses</h1>
+<h1 align="center">Hey visitor, I'm Dimitri :sunglasses:</h1>
 <h3 align="center">A passionate fullstack developer with a lot of hunger for new things.</h3>
 
 <h4 align="left">🔭 I’m 21 years old and I live in Brazil.</h4>
