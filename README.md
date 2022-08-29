@@ -1,6 +1,10 @@
 <h1 align="center">Hey visitor, I'm Dimitri wave</h1>
 <h3 align="center">A passionate fullstack developer with a lot of hunger for new things.</h3>
 
+<h3 align="center">🔭 I’m 21 years old and I live in Brazil</h3>
+<h3 align="center">🤝 I’m currently studing Eletrical Engineering with focus on Robotics and Industrial Automation at UFJF and FullStack Development at Driven.</h3>
+<h3 align="center">I’m currently learning how to be better on everything I can</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dimitri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitri" height="30" width="40" /></a>
