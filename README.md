@@ -3,7 +3,7 @@
 
 <h4 align="left">🔭 I’m 21 years old and I live in Brazil.</h4>
 <h4 align="left">🤝 I’m currently studing Eletrical Engineering with focus on Robotics and Industrial Automation at UFJF and FullStack Development at Driven.</h4>
-<h4 align="left">🌱 I’m currently learning how to be better on everything I can.</h4>
+<h4 align="left">🌱 I’m currently working on a better version of dimitri.exe.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
