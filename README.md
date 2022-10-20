@@ -30,6 +30,11 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
+  <h3>Testing With:</h3>
+  <p>Integration and Unit tests with Jest and E2E tests with Cypress</p>
+  
+  <h3>Devops Tecnologies:</h3>
+  <p>Docker, AWS and CI/CD</p>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitripontocss&show_icons=true&locale=en&layout=compact" alt="dimitripontocss" /></p>
