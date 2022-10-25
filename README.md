@@ -1,16 +1,16 @@
-<h1 align="center">Hey visitor, I'm Dimitri :sunglasses:</h1>
-<h3 align="center">A passionate fullstack developer with a lot of hunger for new things.</h3>
+<h1 align="center">Bem Vindo! Sou o Dimitri :sunglasses:</h1>
+<h3 align="center">Um Desenvolvedor Web FullStack apaixonado e à procura de novos desafios.</h3>
 
-<h4 align="left">🤝 I’m 21 years old and I live in Brazil.</h4>
-<h4 align="left">🔭 I’m currently studing Eletrical Engineering with focus on Robotics and Industrial Automation at UFJF and FullStack Development at Driven.</h4>
-<h4 align="left">🌱 I’m currently working on a better version of dimitri.exe.</h4>
+<h4 align="left">🤝 Tenho 21 anos e sempre estive à procura de uma área que me encontrasse profissionalmente até que descobri a programação e me encantei.</h4>
+<h4 align="left">🔭 Atualmente estou fazendo faculdade de Engenharia Elétrica com Habilitação em Robótica e Automação Industrial e também estou fazendo um bootcamp de Desenvolvimento Web FullStack na Driven Education.</h4>
+<h4 align="left">🌱 Sempre trabalhando numa melhor versão de dimitri.exe (vulgo eu)</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dimitri-assis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitri" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e tecnologias na minha stack:</h3>
 <p align="left"> 
   
   
@@ -30,11 +30,11 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
-  <h3>Testing With:</h3>
-  <p>Integration and Unit tests with Jest and E2E tests with Cypress</p>
+  <h3>Testes:</h3>
+  <p>Testes de integração e de unidade com Jest e testes E2E com Cypress</p>
   
-  <h3>Devops Tecnologies:</h3>
-  <p>Docker, AWS and CI/CD</p>
+  <h3>DevOps:</h3>
+  <p>Github Actions, Docker, AWS e CI/CD</p>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitripontocss&show_icons=true&locale=en&layout=compact" alt="dimitripontocss" /></p>
