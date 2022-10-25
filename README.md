@@ -1,7 +1,7 @@
 <h1 align="center">Bem Vindo! Sou o Dimitri :sunglasses:</h1>
 <h3 align="center">Um Desenvolvedor Web FullStack apaixonado e à procura de novos desafios.</h3>
 
-<h4 align="left">🤝 Tenho 21 anos e sempre estive à procura de uma área que me encontrasse profissionalmente, até que felizmente descobri a programação e me encantei com todas as possibilidades e desafios que estão à minha espera.</h4>
+<h4 align="left">🤝 Tenho 21 anos e sempre estive à procura de uma área em que eu pudesse me encontrar profissionalmente, até que felizmente descobri a programação e me encantei com todas as possibilidades e desafios que estão à minha espera.</h4>
 <h4 align="left">🔭 Atualmente estou fazendo faculdade de Engenharia Elétrica com Habilitação em Robótica e Automação Industrial e também estou fazendo um bootcamp de Desenvolvimento Web FullStack na Driven Education.</h4>
 <h4 align="left">🌱 Sempre trabalhando numa melhor versão de dimitri.exe (vulgo eu)</h4>
 
