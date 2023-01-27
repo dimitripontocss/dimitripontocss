@@ -1,16 +1,17 @@
-<h1 align="center">Bem Vindo! Sou o Dimitri :sunglasses:</h1>
-<h3 align="center">Um Desenvolvedor Web FullStack apaixonado e à procura de novos desafios.</h3>
+<h1 align="center"Wellcome! My name is Dimitri! :sunglasses:</h1>
+<h3 align="center">A Passionate FullStack Web Developer looking for new challenges.</h3>
 
-<h4 align="left">🤝 Tenho 21 anos e sempre estive à procura de uma área em que eu pudesse me encontrar profissionalmente, até que felizmente descobri a programação e me encantei com todas as possibilidades e desafios que estão à minha espera.</h4>
-<h4 align="left">🔭 Atualmente estou fazendo faculdade de Engenharia Elétrica com Habilitação em Robótica e Automação Industrial e também estou fazendo um bootcamp de Desenvolvimento Web FullStack na Driven Education.</h4>
-<h4 align="left">🌱 Sempre trabalhando numa melhor versão de dimitri.exe (vulgo eu)</h4>
+<h4 align="left">🤝I'm 21 years old and I've always been looking for an area where I could find myself professionally, until I happily discovered programming and fell in love with all the possibilities and challenges that await me.
+</h4>
+<h4 align="left">🔭I'm currently studying Electrical Engineering with a Major in Robotics and Industrial Automation and concluded a  FullStack Web Development Bootcamp at Driven Education.</h4>
+<h4 align="left">🌱Always working on a better version of dimitri.exe (myself)</h4>
 
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dimitri-assis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitri" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Linguagens e tecnologias na minha stack:</h3>
+<h3 align="left">Languages and technologies that I use:</h3>
 <p align="left"> 
   
   
@@ -30,11 +31,11 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   
-  <h3>Testes:</h3>
-  <p>Testes de integração e de unidade com Jest e testes E2E com Cypress</p>
+  <h3>Tests:</h3>
+  <p>Unit and Integration Tests with Jest and E2E tests with Cypress</p>
   
   <h3>DevOps:</h3>
-  <p>Github Actions, Docker, AWS e CI/CD</p>
+  <p>Github Actions, Docker, AWS and CI/CD</p>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitripontocss&show_icons=true&locale=en&layout=compact" alt="dimitripontocss" /></p>
