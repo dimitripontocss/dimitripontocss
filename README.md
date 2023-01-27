@@ -1,4 +1,4 @@
-<h1 align="center"Wellcome! My name is Dimitri! :sunglasses:</h1>
+<h1 align="center">Wellcome! My name is Dimitri! :sunglasses:</h1>
 <h3 align="center">A Passionate FullStack Web Developer looking for new challenges.</h3>
 
 <h4 align="left">🤝I'm 21 years old and I've always been looking for an area where I could find myself professionally, until I happily discovered programming and fell in love with all the possibilities and challenges that await me.
