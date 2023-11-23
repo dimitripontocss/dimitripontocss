@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! My name is Dimitri! :sunglasses:</h1>
 <h3 align="center">A Passionate FullStack Web Developer that is always looking for new challenges.</h3>
 
-<h4 align="left">🤝I'm 21 years old and I've always been looking for an area where I could find myself professionally, until I happily discovered programming and fell in love with all the possibilities and challenges that await me.
+<h4 align="left">🤝I'm 22 years old and I've always been looking for an area where I could find myself professionally, until I happily discovered programming and fell in love with all the possibilities and challenges that await me.
 </h4>
 <h4 align="left">🔭I'm currently working at Axia Futures developing new applications while maintaining and improving existing applications.</h4>
 <h4 align="left">🌱Always working on a better version of dimitri.exe (myself)</h4>
